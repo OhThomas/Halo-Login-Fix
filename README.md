@@ -5,7 +5,7 @@
     <h2>Run</h2>
         Run haloLoginFix.cmd when login issues arise. <br> <br>
     <h2>Install</h2>
-        Run install.cmd as administrator to have haloLoginFix ran everytime Halo MCC is launched. <br> <br>
+        Run install.cmd as administrator to have haloLoginFix ran everytime Halo MCC is launched on Steam. <br> <br>
     <h2>License </h2>
         <div align="left">
         This program is free software: you can redistribute it and/or modify
