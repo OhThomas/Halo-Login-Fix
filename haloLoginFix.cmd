@@ -1,0 +1,1 @@
+START powershell %~dp0/scripts/haloLoginFix.ps1
